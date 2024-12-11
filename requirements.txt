@@ -1,0 +1,8 @@
+streamlit
+matplotlib
+wordcloud
+nltk
+collections
+string
+re
+pandas
